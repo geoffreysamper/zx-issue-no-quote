@@ -1,0 +1,1 @@
+await $`echo ${process.env.HOSTNAME}`
